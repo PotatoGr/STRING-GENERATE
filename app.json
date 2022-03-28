@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/LEGEND-AI/STRING-GENERATE",
+  "repository": "https://github.com/PotatoGr/STRING-GENERATE5091",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
